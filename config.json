@@ -1,0 +1,16 @@
+{
+    "debug": false,
+    "threads": 3,
+    "paths": {
+        "combo_file": "input/combo.txt",
+        "output_folder": "output/",
+        "rare_skins_file": "input/rare_skin.txt"
+    },
+    "webhooks": {
+        "live_url": "",
+        "hit_url": "",
+        "twofa_url": "",
+        "shortcode_url": "",
+        "screenshot_url": ""
+    }
+}
